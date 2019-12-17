@@ -1,8 +1,6 @@
 # Awesome-Weka
 Weka References and Resources
 
-In-Process...
-
 ## Tutorials
 * [How to Run Your First Classifier in Weka](https://machinelearningmastery.com/how-to-run-your-first-classifier-in-weka/) - Jason Brownlee
 * [Data Mining with Weka](https://www.youtube.com/channel/UCXYXSGq6Oz21b43hpW2DCvw) - WekaMOOC
