@@ -1,4 +1,4 @@
-# Awesome-Weka
+# Awesome Weka
 Weka References and Resources
 
 -----
