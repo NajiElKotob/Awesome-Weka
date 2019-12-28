@@ -23,4 +23,4 @@ Waikato Environment for Knowledge Analysis (Weka), developed at the University o
 
 ## Benchmarking
 * [Google Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b2358,%2Fm%2F0d2n_m,KNIME,Azure%20ML%2BAzure%20Machine%20Learning)
-
+* [Data Science Survey](https://www.rexeranalytics.com/data-science-survey.html) - Rexer Analytics
