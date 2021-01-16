@@ -19,7 +19,10 @@ Waikato Environment for Knowledge Analysis (Weka), developed at the University o
 * [Nearest Neighbor and server-side library (IBM)](https://www.ibm.com/developerworks/library/os-weka3/index.html) - Data mining with WEKA, Part 3
 
 ### Books
-* [Data Mining: Practical Machine Learning Tools and Techniques](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0128042915/) - (Morgan Kaufmann Series in Data Management Systems) 4th Edition
+* Data Mining: Practical Machine Learning Tools and Techniques
+    * [Amazon](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0128042915/) - (Morgan Kaufmann Series in Data Management Systems) 4th Edition
+    * [Slides and more](https://www.cs.waikato.ac.nz/ml/weka/book.html) - waikato.ac.nz
+    
 
 ## Benchmarking
 * [Google Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b2358,%2Fm%2F0d2n_m,KNIME,Azure%20ML%2BAzure%20Machine%20Learning)
