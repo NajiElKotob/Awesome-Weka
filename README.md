@@ -17,6 +17,8 @@ Waikato Environment for Knowledge Analysis (Weka), developed at the University o
 * [Introduction and regression (IBM)](https://developer.ibm.com/articles/os-weka1/) - Data mining with WEKA, Part 1
 * [Classification and clustering (IBM)](https://developer.ibm.com/articles/os-weka2/) - Data mining with WEKA, Part 2
 * [Nearest Neighbor and server-side library (IBM)](https://www.ibm.com/developerworks/library/os-weka3/index.html) - Data mining with WEKA, Part 3
+* [A Great Way for Beginners to Get Started with Machine Learning](https://towardsdatascience.com/a-great-way-for-beginners-to-get-started-with-machine-learning-833cce028620) - towardsdatascience.com
+
 
 ### Books
 * Data Mining: Practical Machine Learning Tools and Techniques
