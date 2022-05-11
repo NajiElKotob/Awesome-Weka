@@ -25,6 +25,9 @@ Waikato Environment for Knowledge Analysis (Weka), developed at the University o
     * [Amazon](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0128042915/) - (Morgan Kaufmann Series in Data Management Systems) 4th Edition
     * [Slides and more](https://www.cs.waikato.ac.nz/ml/weka/book.html) - waikato.ac.nz
     
+## Tools
+* [Weka ARFF to CSV](https://pulipulichen.github.io/jieba-js/weka/arff2csv/)
+
 
 ## Benchmarking
 * [Google Trend](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F0b2358,%2Fm%2F0d2n_m,KNIME,Azure%20ML%2BAzure%20Machine%20Learning)
